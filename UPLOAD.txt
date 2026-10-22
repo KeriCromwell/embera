@@ -1,0 +1,9 @@
+EMBERA LANDING PAGE
+
+Upload index.html, embera.jpg and embera.svg together to the root of your GitHub Pages repository.
+Keep the image and SVG filenames unchanged.
+
+The download and support links currently use:
+https://github.com/KeriCromwell/Embera
+If you rename the repository, update these links in index.html.
+Publish the Embera Windows ZIP as a GitHub Release so visitors can download the renamed app.
